@@ -177,9 +177,9 @@
     }
     
     &__heading {
-      color: #fff;
+      color: #00FF00;
       text-transform: uppercase;
-      font-size: 18px;
+      font-size: 25px;
     }
     
     &__content {
@@ -205,7 +205,7 @@
     &__text {
       text-transform: uppercase;
       font-size: 40px;
-      color: #fff;
+      color: #FFFFFF;
     }
     
     &__close-btn {
@@ -298,7 +298,7 @@
       }
      
       &-back {
-        color: #2f3840;
+        color: #808080;
         opacity: 0;
         transition: opacity $indexHoverAT/2 $indexHoverAT/2;
         
@@ -312,7 +312,7 @@
         overflow: hidden;
         position: relative;
         transform: translate3d(0,100%,0);
-        transition: transform $indexHoverAT 0.1s;
+        transition: transform $indexHoverAT 0.5s;
         color: transparent;
         
         &:before {
