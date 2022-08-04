@@ -9,8 +9,8 @@
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   }
   
-  $vertPad: 80px;
-  $sidePad: 80px;
+  $vertPad: 5px;
+  $sidePad: 5px;
   
   $numOfEls: 5;
   $elMrg: 1%;
